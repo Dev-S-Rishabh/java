@@ -1,0 +1,3 @@
+if apt is pakage manager
+sudo apt update && sudo apt upgrade -y
+sudo apt install gcc notepadqq openjdk-11-jdk gedit 
